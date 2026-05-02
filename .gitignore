@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+qzone_images/
+qzone_*_imgs/
+*.json
+*.csv
